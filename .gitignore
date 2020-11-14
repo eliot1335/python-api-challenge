@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # API Keys
-config.py
+WeatherPy/config.py
+VacationPy/config.py
